@@ -1,2 +1,5 @@
 # rocketTools
-CSCI 320 Tool Organizer
+CSCI 320 Team Rocket Tool Organizer
+
+## How to run
+For commands, in command line, type `python test.py --help`
